@@ -1,0 +1,26 @@
+.main
+{
+  background-color: black;
+  color: whitesmoke;
+}
+.nav a
+{
+  padding-left: 40px;
+  text-decoration: none;
+  color: whitesmoke;
+}
+.icon{
+  display: flex;
+  font-size: large;
+}
+.footer
+{
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: whitesmoke;
+  margin-bottom: 0%;
+  height: 190px;
+  align-items: center;
+
+}
