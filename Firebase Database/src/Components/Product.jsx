@@ -69,13 +69,13 @@ const Product = () => {
             <div>
                 <button 
                     onClick={() => setOrder("asc")}
-                    style={{ padding: "10px 20px", margin: "0 5px", borderRadius: "5px", backgroundColor: "#4CAF50", color: "#fff", border: "none", cursor: "pointer" }}
+                    style={{ padding: "10px 20px", margin: "0 5px", borderRadius: "5px", backgroundColor: "grey", color: "#fff", border: "none", cursor: "pointer" }}
                 >
                     LowToHigh
                 </button>
                 <button 
                     onClick={() => setOrder("desc")}
-                    style={{ padding: "10px 20px", margin: "0 5px", borderRadius: "5px", backgroundColor: "#f44336", color: "#fff", border: "none", cursor: "pointer" }}
+                    style={{ padding: "10px 20px", margin: "0 5px", borderRadius: "5px", backgroundColor: "blue", color: "#fff", border: "none", cursor: "pointer" }}
                 >
                     HighToLow
                 </button>
@@ -91,10 +91,10 @@ const Product = () => {
                         </Link>
                         <h4>{el.title}</h4>
                         <h4>Price: {el.price}</h4>
-                        <button style={{ margin: '5px', padding: '10px', borderRadius: '5px', backgroundColor: '#4CAF50', color: 'white', border: 'none', cursor: 'pointer' }}>
+                        <button style={{ margin: '5px', padding: '10px', borderRadius: '5px', backgroundColor: 'grey', color: 'white', border: 'none', cursor: 'pointer' }}>
                             <Link to={`/edit/${el.id}`} style={{ color: 'white', textDecoration: 'none' }}>Edit</Link>
                         </button>
-                        <button onClick={() => handleDelete(el.id)} style={{ margin: '5px', padding: '10px', borderRadius: '5px', backgroundColor: '#f44336', color: 'white', border: 'none', cursor: 'pointer' }}>
+                        <button onClick={() => handleDelete(el.id)} style={{ margin: '5px', padding: '10px', borderRadius: '5px', backgroundColor: 'blue', color: 'white', border: 'none', cursor: 'pointer' }}>
                             Delete
                         </button>
                     </div>

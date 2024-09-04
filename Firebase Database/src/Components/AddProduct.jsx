@@ -82,7 +82,7 @@ const AddProduct = () => {
           placeholder="Description" 
           style={{ padding: '10px 20px', borderRadius: '5px', border: '1px solid grey' }} 
         />
-        <button type="submit" style={{ padding: '10px 20px', borderRadius: '5px', border: 'none', backgroundColor: '#E80071', color: 'white', cursor: 'pointer' }}>
+        <button type="submit" style={{ padding: '10px 20px', borderRadius: '5px', border: 'none', backgroundColor: 'grey', color: 'white', cursor: 'pointer',fontSize:"18px" }}>
           Submit
         </button>
       </form>
