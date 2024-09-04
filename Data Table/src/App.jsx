@@ -1,14 +1,14 @@
+import React from 'react'
 import './App.css'
-import AllRouter from './assets/Component/AllRouter'
-import Navbar from './assets/Component/Navbar'
-
-function App() {
+import Navbar from './Components/Navbar'
+import Allroutes from './Allroutes'
+const App = () => {
 
   return (
-    <>
-    <Navbar /><br /><br /><br />
-     <AllRouter />
-    </>
+    <div>
+      <Navbar/>
+      <Allroutes/>
+    </div>
   )
 }
 

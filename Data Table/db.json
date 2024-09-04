@@ -1,5 +1,5 @@
 {
-  "product": [
+  "Product": [
     {
       "id": 1,
       "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -13,6 +13,18 @@
       }
     },
     {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
       "id": 3,
       "title": "Mens Cotton Jacket",
       "price": 55.99,
@@ -22,6 +34,18 @@
       "rating": {
         "rate": 4.7,
         "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
       }
     },
     {
@@ -49,15 +73,15 @@
       }
     },
     {
-      "id": 8,
-      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-      "price": "150",
-      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
       "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
       "rating": {
-        "rate": 1.9,
-        "count": 100
+        "rate": 3,
+        "count": 400
       }
     },
     {
@@ -123,7 +147,7 @@
     {
       "id": 14,
       "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-      "price": 999.99,
+      "price": "10.000",
       "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
       "category": "electronics",
       "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
@@ -169,9 +193,21 @@
       }
     },
     {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
       "id": 19,
       "title": "Opna Women's Short Sleeve Moisture",
-      "price": "150",
+      "price": 7.95,
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
       "category": "women's clothing",
       "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
@@ -181,36 +217,52 @@
       }
     },
     {
-      "title": "I Phone 15 Pro Max",
-      "price": "1,52,000",
-      "description": "If you want the most affordable iPhone, you're going to be looking at the iPhone SE (at least when it comes to brand-new phones, that is). Updated in 2022, the third-generation iPhone SE maintains the overall design of the iPhone 8, which will be familiar to a lot of iPhone buyers",
-      "category": "electronics",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MT233?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1693248327138",
-      "id": 21
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
     },
     {
-      "title": "akndnjadn",
-      "price": "120",
-      "description": "Best premium gaming. Asus ROG Phone 8 Pro. View at Amazon. ... Best gaming for most people. ZTE Nubia RedMagic 9 Pro. View at Amazon. ...",
-      "category": "jewelery",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MT233?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1693248327138",
-      "id": 22
-    },
-    {
-      "title": "Home",
-      "price": "1240",
-      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "id": 21,
+      "title": "Perfume",
+      "price": 12.99,
+      "description": "Mens perfume",
       "category": "men's clothing",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MT233?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1693248327138",
-      "id": 23
+      "image": "https://media.post.rvohealth.io/wp-content/uploads/2019/05/Perfume_Bottles-732x549-Thumbnail.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 149
+      }
     },
     {
-      "title": "",
-      "price": "",
-      "description": "",
-      "category": "",
-      "image": "",
-      "id": 24
+      "id": "7ea9",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-sm-s921blbcins-thumb-539572328",
+      "title": "samsung",
+      "price": "16000",
+      "category": "electronic",
+      "description": "samsung s23 "
+    },
+    {
+      "id": "1b55",
+      "image": "https://m.media-amazon.com/images/I/61VuVU94RnL._SX679_.jpg",
+      "title": "Apple iPhone 13 (128GB)",
+      "price": "-13% ₹52,090",
+      "category": "Electronic",
+      "description": "Apple"
+    },
+    {
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "title": "electronic",
+      "price": "168",
+      "category": "electronic",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "id": 22
     }
   ]
 }
